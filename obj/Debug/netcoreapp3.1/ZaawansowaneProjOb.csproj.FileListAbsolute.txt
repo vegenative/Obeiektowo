@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\bin\Debug\netcoreapp3.1\ZaawansowaneProjOb.exe
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\bin\Debug\netcoreapp3.1\ZaawansowaneProjOb.deps.json
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\bin\Debug\netcoreapp3.1\ZaawansowaneProjOb.runtimeconfig.json
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\bin\Debug\netcoreapp3.1\ZaawansowaneProjOb.runtimeconfig.dev.json
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\bin\Debug\netcoreapp3.1\ZaawansowaneProjOb.dll
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\bin\Debug\netcoreapp3.1\ZaawansowaneProjOb.pdb
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.AssemblyInfo.cs
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.dll
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.pdb
+C:\Users\user\source\repos\ZaawansowaneProjOb\ZaawansowaneProjOb\obj\Debug\netcoreapp3.1\ZaawansowaneProjOb.genruntimeconfig.cache
